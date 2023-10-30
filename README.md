@@ -7,8 +7,8 @@ Computer Scientist out of Northeast Ohio
 ---
 
 ### Professional Social Links
-- **LinkedIn**: [https://www.linkedin.com/in/levi-gainer-857126258/](#)
-- **GitHub**: [https://github.com/levijr2](#)
+- **LinkedIn**: [https://www.linkedin.com/in/levi-gainer-857126258/](#https://www.linkedin.com/in/levi-gainer-857126258/)
+- **GitHub**: [https://github.com/levijr2](#https://github.com/levijr2)
 
   
 ---
