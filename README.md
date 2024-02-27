@@ -1,48 +1,11 @@
-# levijr2.github.io
-# Levi Gainer
+# 💫 About Me:
+2024 Computer Science graduate from The College of Wooster<br>Currently a Student Intern at Schneider  Electric<br>Passionate about Robots, Micromouse Competitions, and the Education of upcoming students
 
-### Bio
-Computer Scientist out of Northeast Ohio
 
----
-
-### Professional Social Links
-- **LinkedIn**: [https://www.linkedin.com/in/levi-gainer-857126258/](#https://www.linkedin.com/in/levi-gainer-857126258/)
-- **GitHub**: [https://github.com/levijr2](#https://github.com/levijr2)
-
-  
----
-
-### CV/Resume Information
-####  Computer Science
-- **[College of Wooster, BA]**: Duration (2020) - (2024)
- 
-
-#### Internship Experience
-- **College of Wooster, AMRE Associate**: Summer 2023
-  - The goal of the project was to automate the process of data extraction from 
-documents using Azure’s implementation of the OpenAI API and GPT models. The 
-AMRE team ran experiments on different metrics, parameters, and prompt 
-engineering techniques. The extensive tests and research led the team to develop 
-a data extractor program and a best practices guide to improve Schneider 
-Electric’s use of large language models and prompt engineering techniques. 
-- Team: 
-Yamoah Attafuah ’24, Computer Engineering at Ashesi University , 
-Diya Misra ’25 Computer Science and Psychology at The College of Wooster, 
-Yasmine Fazazi ’24, Computer Science and Psychology at The College of Wooster, and 
-Levi Gainer ’24, Computer Science at The College of Wooster.
-
-- **Schneider Electric, Intern**: Fall 2023- now
-  - Responsibilities:
-    - Prompt Engineering
-    - Data Extraction Tools
-    - Research
----
-
-### Skills
-- **Programming Languages**: Python, C, C++, java, js, HTML, CSS, Haskell
-- **Concepts**: Agile Development, Prompt Engineering, 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=levijr2&icon=2&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my page! 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
